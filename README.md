@@ -22,6 +22,14 @@ Das Dashboard zeigt fünf zentrale Kennzahlen:
 
 Zusätzlich lassen sich die Umsatz- und Gewinnentwicklung sowie die Ergebnisse einzelner Produktkategorien, Unterkategorien und Kundensegmente untersuchen.
 
+## Excel-Dashboard
+
+Das Dashboard zeigt die wichtigsten Kennzahlen zur Verkaufsleistung und ermöglicht es, Umsatz und Rentabilität nach Zeitraum, Produktkategorie und Kundensegment zu untersuchen.
+
+![Sales Performance Dashboard](dashboard/01_sales_dashboard.png)
+![Sales Performance Dashboard](dashboard/02_sales_dashboard.png)
+
+
 ## Was ich bei der Analyse interessant fand
 
 ### Umsatz und Gewinn erzählen nicht immer dieselbe Geschichte
